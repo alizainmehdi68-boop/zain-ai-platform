@@ -1,0 +1,6 @@
+{
+  "name": "ZainAI – All-in-One AI Productivity Platform",
+  "description": "Premium All-in-One AI Tools SaaS platform with 40+ professional AI tools, subscription management, USDT TRC20 payments, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
